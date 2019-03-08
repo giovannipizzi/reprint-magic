@@ -32,7 +32,7 @@ To see a demo, look into the jupyter notebook ``demo/demo.ipynb`` or see it live
 using binder (click below).
 
 .. image:: https://mybinder.org/badge_logo.svg
- :target: https://mybinder.org/v2/gh/giovannipizzi/reprint-magic/master?filepath=apps%2Fdemo%2Fdemo.ipynb
+ :target: https://mybinder.org/v2/gh/giovannipizzi/reprint-magic/master?urlpath=apps/demo/demo.ipynb
 
 
 .. _appmode: https://github.com/oschuett/appmode
