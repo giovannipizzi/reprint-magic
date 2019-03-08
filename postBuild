@@ -1,4 +1,4 @@
 jupyter nbextension     enable --py --sys-prefix appmode
 jupyter serverextension enable --py --sys-prefix appmode
 
-pip install -e .
+# No need to do `pip install -e .`, this is done automatically by binder.
