@@ -26,7 +26,7 @@ class ReprintMagics(Magics):
         args = magic_arguments.parse_argstring(self.reprint, line)
         
         pre_box = '<div style="border: 1px solid #999; border-radius: 3px;">\n\n'
-        post_box = "\n\n</div>"
+        post_box = "\n\n"
         if args.no_box:
             pre_box = ""
             post_box = ""
